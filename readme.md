@@ -1,7 +1,7 @@
 <div align="center">
     <br />
 	<h1>FlareOn 2019</h1>
-	<pre>FLARE-On Challenge 6 will begin 17 AUG 2019 00:00UTC<br/><br/>In this Repository:<br/>None Yet</pre>
+	<pre>FLARE-On Challenge 6 will begin 17 AUG 2019 00:00UTC<br/><br/>In this Repository:<br/>Challenge 6</pre>
     <p>
 		<img src="https://forthebadge.com/images/badges/just-plain-nasty.svg">
 		<br/>
@@ -9,7 +9,7 @@
 	</p>
 	<hr/>
 </div>
-> This is the workspace for PlutonusDev and Refactor.
+>This is the workspace for PlutonusDev and Refactor.
 
 ### Branches
 - [Challenge 6](https://github.com/PlutonusDev/FlareOn/tree/Challenge6)
