@@ -1,3 +1,5 @@
 ### Challenge 6
 
-Starts in <1 Hour. This file will be updated with more information then.
+#### Part 1
+Memecat Battlestation
+>To be continued...
